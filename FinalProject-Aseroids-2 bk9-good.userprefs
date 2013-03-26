@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Assets/Scripts/Radar.js">
+    <Files>
+      <File FileName="Assets/Assets/Scripts/Radar.js" Line="75" Column="51" />
+      <File FileName="Assets/Assets/Scripts/HighScores.js" Line="107" Column="2" />
+      <File FileName="Assets/Assets/Scripts/MainMenu.js" Line="64" Column="2" />
+      <File FileName="Assets/Assets/Scripts/AsteroidField.js" Line="73" Column="3" />
+      <File FileName="Assets/Assets/Scripts/Rocket.js" Line="17" Column="26" />
+      <File FileName="Assets/Assets/Scripts/GUIHandler.js" Line="26" Column="23" />
+      <File FileName="Assets/Assets/Scripts/PowerUp.js" Line="16" Column="3" />
+      <File FileName="Assets/Assets/Scripts/Asteroid.js" Line="62" Column="2" />
+      <File FileName="Assets/Assets/Scripts/Ship.js" Line="75" Column="6" />
+      <File FileName="Assets/Assets/Scripts/GameController.js" Line="57" Column="79" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

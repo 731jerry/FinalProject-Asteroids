@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Assets/Scripts/GUISnapTo.js">
+    <Files>
+      <File FileName="Assets/Assets/Scripts/GUIHandler.js" Line="36" Column="3" />
+      <File FileName="Assets/Assets/Scripts/GameController.js" Line="35" Column="28" />
+      <File FileName="Assets/Assets/Scripts/Enemy.js" Line="5" Column="2" />
+      <File FileName="Assets/Assets/Scripts/AsteroidField.js" Line="10" Column="2" />
+      <File FileName="Assets/Assets/Scripts/Asteroid.js" Line="52" Column="2" />
+      <File FileName="Assets/Assets/Scripts/Ship.js" Line="109" Column="41" />
+      <File FileName="Assets/Assets/Scripts/Beam.js" Line="30" Column="73" />
+      <File FileName="Assets/Assets/Scripts/FollowShip.js" Line="6" Column="26" />
+      <File FileName="Assets/Assets/Scripts/GUISnapTo.js" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
